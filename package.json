@@ -1,6 +1,7 @@
 {
   "name": "carematch",
   "version": "0.1.0",
+  "author": "Mubashir Ali <alimubashir822@gmail.com> (https://www.medclinicx.com)",
   "private": true,
   "scripts": {
     "dev": "next dev",
